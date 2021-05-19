@@ -13,8 +13,8 @@ This data contains unique columns
 ## More Information
 - Source: <Housing Characteristics Estimates| ACS> [Link](https://data.census.gov/cedsci/table?d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2019.DP04) 
 - Terms of Use: [Link](https://www.census.gov/about/policies/privacy.html)
-- Frequency: <Annually>
-- Formats: <CSV>
+- Frequency: Annually
+- Formats: CSV
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/housing-characteristic-estimates) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
